@@ -11,7 +11,7 @@ const projects = [
   {
     name: '8-E',
     description: 'Sınıfımızı en iyi şekilde tanıtmaya çalıştımm',
-    link: 'https://link2.com'
+    link: 'https://8-e-v2.vercel.app'
   },
   {
     name: 'Devami Gelecek',
