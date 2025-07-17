@@ -17,7 +17,17 @@ const projects = [
     name: 'Bu gün ne yesek?',
     description: 'Okuldaki ne yiyecegiz kavgasini cozmek icin.',
     link: 'https://ne-yesek-beta.vercel.app/'
-  }
+  },
+  {
+    name: 'Dini Game',
+    description: 'eee? milyon tane bug var düzeltmem lazim ama acıkçası üşeniyorum',
+    link: 'https://dino-game-tan.vercel.app/'
+  },
+  {
+    name: 'deneme',
+    description: 'deneme',
+    link: 'deneme'
+  },
 ];
 
 export default function Home() {
