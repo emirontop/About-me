@@ -14,9 +14,9 @@ const projects = [
     link: 'https://8-e-v2.vercel.app'
   },
   {
-    name: 'Devami Gelecek',
-    description: 'Devamı gelecek',
-    link: 'https://Emir.com'
+    name: 'Bu gün ne yesek?',
+    description: 'Okuldaki ne yiyecegiz kavgasini cozmek icin.',
+    link: 'https://ne-yesek-beta.vercel.app/'
   }
 ];
 
