@@ -24,9 +24,9 @@ const projects = [
     link: 'https://dino-game-tan.vercel.app/'
   },
   {
-    name: 'deneme',
-    description: 'deneme',
-    link: 'deneme'
+    name: 'Refleks Testi',
+    description: 'reflekslerini test etmek istersen diye.',
+    link: 'https://reaksiyon-ivory.vercel.app/'
   },
 ];
 
