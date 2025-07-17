@@ -106,7 +106,7 @@ export default function Home() {
       <section className="contact">
         <h2>İletişim</h2>
         <p>
-          Yeni projeler, işbirlikleri veya sadece merhaba demek için benimle iletişime geçebilirsiniz.
+        Bugları belirtmek, fikir vermek veya bana yardîm etmek isterseniz Mailden ulaşabilir siniz.
         </p>
         <div className="contact-buttons">
           <a href="mailto:dincemirata@gmail.com" className="contact-btn">
