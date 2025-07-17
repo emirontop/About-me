@@ -1,6 +1,5 @@
 // pages/index.js
-import Image from 'next/image';
-import profilePic from '../public/images/profile.jpg';
+import React from 'react';
 
 const projects = [
   {
@@ -23,16 +22,11 @@ const projects = [
 export default function Home() {
   return (
     <div className="container">
-      {/* Hero Section */}
-      <section className="hero">
-        <Image src={profilePic} alt="Emir'in Fotoğrafı" />
-        <div>
-          <h1>Merhaba, Ben Emir</h1>
-          <p>Yazılım Geliştiricisi | Web Tasarımcı</p>
-        </div>
-      </section>
+      <header>
+        <h1>Emir'in Web Sitesine Hoş Geldiniz!</h1>
+        <p>Benim hakkımda daha fazla bilgi edinmek için aşağıya göz atabilirsiniz.</p>
+      </header>
 
-      {/* About Section */}
       <section className="about">
         <h2>Hakkımda</h2>
         <p>
@@ -40,7 +34,6 @@ export default function Home() {
         </p>
       </section>
 
-      {/* Projects Section */}
       <section className="projects">
         <h2>Projelerim</h2>
         <ul>
@@ -56,7 +49,6 @@ export default function Home() {
         </ul>
       </section>
 
-      {/* Footer */}
       <footer>
         <p>© 2025 Emir. Tüm hakları saklıdır.</p>
       </footer>
