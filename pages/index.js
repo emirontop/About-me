@@ -4,19 +4,19 @@ import Head from 'next/head';
 
 const projects = [
   {
-    name: 'E-Ticaret Platformu',
-    description: 'React ve Node.js ile geliştirilmiş tam özellikli e-ticaret uygulaması. Kullanıcı kimlik doğrulama, ürün yönetimi ve ödeme entegrasyonları içerir.',
-    link: 'https://link1.com'
+    name: 'Webhook Sender',
+    description: 'Anlatmaya gerek yok sadece webhook a mesaj gonderir',
+    link: 'https://webhook-bomber.vercel.app/'
   },
   {
-    name: 'Hava Durumu Uygulaması',
-    description: 'Gerçek zamanlı hava durumu verilerini sunan mobil uyumlu web uygulaması. Kullanıcılar konumlarına göre hava tahminlerini görüntüleyebilir.',
+    name: '8-E',
+    description: 'Sınıfımızı en iyi şekilde tanıtmaya çalıştımm',
     link: 'https://link2.com'
   },
   {
-    name: 'Görev Yönetim Sistemi',
-    description: 'Takımlar için geliştirilmiş görev takip uygulaması. Kullanıcılar görev oluşturabilir, atayabilir ve ilerlemeyi takip edebilir.',
-    link: 'https://link3.com'
+    name: 'Devami Gelecek',
+    description: 'Devamı gelecek',
+    link: 'https://Emir.com'
   }
 ];
 
@@ -37,7 +37,7 @@ export default function Home() {
       <section className="about">
         <h2>Hakkımda</h2>
         <p>
-          Ben bir yazılım mühendisiyim, özellikle modern web teknolojileri ve kullanıcı odaklı uygulamalar geliştirme konusunda uzmanlaştım. 
+          Ben bir Ögrenciyim, özellikle modern web teknolojileri ve kullanıcı odaklı uygulamalar geliştirme konusunda Meraklıyım. 
           Temiz kod, etkili çözümler ve sezgisel kullanıcı arayüzleri oluşturmaya tutkuluyum.
         </p>
         <p>
