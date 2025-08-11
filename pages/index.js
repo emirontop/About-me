@@ -19,7 +19,7 @@ const projects = [
     link: 'https://ne-yesek-beta.vercel.app/'
   },
   {
-    name: 'Dini Game',
+    name: 'Dino Game',
     description: 'eee? milyon tane bug var düzeltmem lazim ama acıkçası üşeniyorum',
     link: 'https://dino-game-tan.vercel.app/'
   },
