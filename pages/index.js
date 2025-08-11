@@ -79,13 +79,13 @@ export default function Home() {
         <h2>Yetenekler</h2>
         <div className="skills-container">
           <div className="skill-category">
-            <h3>Frontend</h3>
+            <h3>Kullanilan diller</h3>
             <ul>
               <li>React.js</li>
               <li>Next.js</li>
               <li>JavaScript/Typescript</li>
-              <li>HTML5 & CSS3</li>
-              <li>Responsive Tasarım</li>
+              <li>HTML5 & CSS+</li>
+              <li>Lua</li>
             </ul>
           </div>
           <div className="skill-category">
