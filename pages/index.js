@@ -34,25 +34,23 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Emir | Yazılım Geliştirici</title>
-        <meta name="description" content="Emir'in kişisel web sitesi ve portfolyosu" />
+        <title>Emoç</title>
+        <meta name="description" content="Aga neden yaptim bilmiyom" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <header>
         <h1>Merhaba, ben Emir</h1>
-        <p>Full-stack geliştirici ve modern web teknolojileri tutkunu</p>
+        <p>Telefonu Seciyom beabi</p>
       </header>
 
       <section className="about">
         <h2>Hakkımda</h2>
         <p>
-          Ben bir ögrenciyim, özellikle modern web teknolojileri ve kullanıcı odaklı uygulamalar geliştirme konusunda Meraklıyım. 
-          Temiz kod, etkili çözümler ve sezgisel kullanıcı arayüzleri oluşturmaya tutkuluyum.
+          Ben bir ögrenciyim, web sitesi yapıyorum.
         </p>
         <p>
-          Çalışmalarımda React, Node.js ve modern JavaScript ekosistemine odaklanıyorum. 
-          Her zaman yeni teknolojiler öğrenmeye ve becerilerimi geliştirmeye açığım.
+        Ben lua,Css,Html,Javascript kullanıyorum.
         </p>
       </section>
 
@@ -116,7 +114,7 @@ export default function Home() {
       <section className="contact">
         <h2>İletişim</h2>
         <p>
-        Bugları belirtmek, fikir vermek veya bana yardîm etmek isterseniz Mailden ulaşabilir siniz.
+        Bugları belirtmek, fikir vermek veya bana yardîm etmek isterseniz Mailden ulaşabilir siniz.(Cevap vermicem ama neyse)
         </p>
         <div className="contact-buttons">
           <a href="mailto:dincemirata@gmail.com" className="contact-btn">
